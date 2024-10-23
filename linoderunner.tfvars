@@ -1,0 +1,5 @@
+linode_api_token = "YourLinodeToken"
+github_pat = "YourGitHubPAT"
+root_password = "RootPassForYourRunner.123!"
+github_repo = "YourRepositoryName"
+github_username = "YourUserName"
